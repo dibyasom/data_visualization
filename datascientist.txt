@@ -1,0 +1,11 @@
+Dibyasom,8,8,9
+Dev,3,4,2
+KK Sir,4,5,40
+Ishani,7,8,8
+Ankit,6,2,4
+Harsh,3,7,5
+Vivek,7,1,1
+Kundan,6,5,4
+Ayush,8,1,6
+Ghodi,5,1,1
+Shrey,4,8,4
